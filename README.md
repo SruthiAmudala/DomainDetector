@@ -27,7 +27,7 @@ The system starts by retrieving URLs to be checked for phishing. These URLs can 
 ## Machine Learning Models
 
 Various machine learning models are compared and The machine learning model with high accuracy is selected which predicts whether the URL is a phishing site or not. It provides a probability score or a binary classification (phishing or not phishing) based on the trained model's decision boundary. The system categorize URLs into "phishing" or "legitimate" and the result is finally displayed on the webpage. 
-#### Refer Phishingproject.ipynb for more details.
+#### Refer Domain_Detector.ipynb  for more details.
 
 ## Result
 
